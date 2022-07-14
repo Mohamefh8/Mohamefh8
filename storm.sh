@@ -1,0 +1,1 @@
+su -c wget -O /data/data/STORMOP https://github.com/Stormviperfc/AMR/blob/main/STORMOP?raw=true &> /dev/null;
